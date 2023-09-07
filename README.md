@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BuildCal
 - 👀 I’m Interested
 - 🌱 I’m currently learning COBOL 🥁
-💞️ I’m looking to "colla-borate" on elemental circuits!
+- 💞️ I’m looking to "colla-borate" on elemental circuits!
 - 📫 How to reach me ... facsimile
 
 <!---
